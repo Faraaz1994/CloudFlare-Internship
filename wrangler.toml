@@ -1,0 +1,6 @@
+name = "fullstack"
+type = "javascript"
+account_id = "aa96b4baf45870af5491000e8e0d237d"
+workers_dev = true
+route = ""
+zone_id = ""
